@@ -1,0 +1,16 @@
+{
+  /* car details */
+  "carmake": "Lamborghini",
+  "carModel": "Murciélago", // car model
+  "caryear": "2002",
+  "CarVin": "JN8AZ1MU2CW504746",
+  "carcolor": "Aquamarine",
+  "CarPrice": 66861.04,
+  "CarMileage": 3786,
+  "CarCondition": "certified pre-owned",
+  "CarOwner": "Mariejeanne Baldrey",
+  "CarlocationCity": "Zoumaling",
+  "carlocationCountry": "China",
+
+  // more data goes here...
+}
