@@ -70,7 +70,7 @@ class Program
 
             List<Quotes>? quotesList;
 
-            HttpClient httpClient = new HttpClient();
+            HttpClient httpClient = new ();
             var webResult = await httpClient.GetAsync("https://api.quotable.io/quotes/random?limit=108");
 
             if (webResult.IsSuccessStatusCode)
